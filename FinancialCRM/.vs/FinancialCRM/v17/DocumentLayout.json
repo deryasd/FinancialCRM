@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\Program.cs",
+              "RelativeToolTip": "FinancialCRM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:43:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FinancialCRM\\FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:36:55.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FinancialCRM\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:15:35.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

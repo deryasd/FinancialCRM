@@ -1,0 +1,11 @@
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\FinancialCRM.exe.config
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\FinancialCRM.exe
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\FinancialCRM.pdb
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.csproj.AssemblyReference.cache
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.FrmBanks.resources
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.FrmDashboard.resources
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.Properties.Resources.resources
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.csproj.GenerateResource.cache
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.exe
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.pdb

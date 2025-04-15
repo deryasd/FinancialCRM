@@ -9,3 +9,9 @@ C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\Financia
 C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.csproj.CoreCompileInputs.cache
 C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.exe
 C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.pdb
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\EntityFramework.dll
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\EntityFramework.xml
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\Financia.C877801E.Up2Date
+C:\Users\esind\Desktop\FinancialCRM\FinancialCRM\FinancialCRM\obj\Debug\FinancialCRM.FrmBilling.resources

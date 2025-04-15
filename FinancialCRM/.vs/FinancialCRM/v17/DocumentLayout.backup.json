@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|c:\\users\\esind\\desktop\\financialcrm\\financialcrm\\financialcrm\\frmbilling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CCEAB6-DDE8-485F-BE4F-A26208CAE953}|FinancialCRM\\FinancialCRM.csproj|solutionrelative:financialcrm\\frmbilling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs [Design]*",
+              "RelativeToolTip": "FinancialCRM\\FrmBanks.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:36:55.444Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -34,40 +55,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\Program.cs",
-              "RelativeDocumentMoniker": "FinancialCRM\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\Program.cs",
-              "RelativeToolTip": "FinancialCRM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.cs*",
+              "RelativeToolTip": "FinancialCRM\\FrmBilling.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:43:34.36Z",
+              "WhenOpened": "2025-04-15T15:26:33.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmBanks.cs [Design]",
+              "Title": "FrmBanks.cs",
               "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs",
               "RelativeDocumentMoniker": "FinancialCRM\\FrmBanks.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs [Design]",
-              "RelativeToolTip": "FinancialCRM\\FrmBanks.cs [Design]",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBanks.cs*",
+              "RelativeToolTip": "FinancialCRM\\FrmBanks.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:36:55.444Z",
+              "WhenOpened": "2025-04-15T15:38:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.cs [Design]*",
+              "RelativeToolTip": "FinancialCRM\\FrmBilling.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:22:04.367Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "FinancialCRM\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmDashboard.cs [Design]",
-              "RelativeToolTip": "FinancialCRM\\FrmDashboard.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "FrmBilling.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.Designer.cs",
+              "RelativeDocumentMoniker": "FinancialCRM\\FrmBilling.Designer.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\FinancialCRM\\FinancialCRM\\FinancialCRM\\FrmBilling.Designer.cs*",
+              "RelativeToolTip": "FinancialCRM\\FrmBilling.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:15:35.107Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-15T15:15:30.555Z",
+              "EditorCaption": ""
             }
           ]
         }
